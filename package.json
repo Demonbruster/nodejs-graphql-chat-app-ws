@@ -1,0 +1,14 @@
+{
+  "name": "chat-app-graphql-ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Demonbruster/nodejs-graphql-chat-app-ws.git",
+  "author": "FM_Suhail",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
